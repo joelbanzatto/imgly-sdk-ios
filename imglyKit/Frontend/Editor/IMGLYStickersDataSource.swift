@@ -17,6 +17,16 @@ public class IMGLYStickersDataSource: NSObject, IMGLYStickersDataSourceDelegate 
     
     override init() {
         let stickerFiles = [
+            "hand2",
+            "hand3",
+            "hand4",
+            "hand5",
+            "hand6",
+            "hand7",
+            "hand desenho",
+            "hand spider 1",
+            "hand spider 2",
+            "hand spider",
             "glasses_nerd",
             "glasses_normal",
             "glasses_shutter_green",
